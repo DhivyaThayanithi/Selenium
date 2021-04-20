@@ -21,9 +21,9 @@ public class LogiiBasee {
 		
 	}
 
-	public void TextBox(WebElement Locate,String textt)
+	public void TextBox(WebElement Locate,String text)
 	{
-		Locate.sendKeys(textt);
+		Locate.sendKeys(text);
 	
 	}
 }
