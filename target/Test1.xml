@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0">
+<testcase classname="Login validation." name="login validation with correct user and password" time="0">
+<system-out><![CDATA[Given launch the application................................................skipped
+When enter the UserName "Admin" and PassWord "admin123".....................skipped
+Then click the button.......................................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
